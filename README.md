@@ -17,7 +17,7 @@ I'm an AI/ML Engineer. My focus is on building Machine Learning pipelines, but I
 
 #### Frontend
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-white?style=flat&logo=expo&logoColor=000000)
 
 #### Machine Learning
 
@@ -26,7 +26,7 @@ I'm an AI/ML Engineer. My focus is on building Machine Learning pipelines, but I
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=matplotlib&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-000000?style=flat&logo=optuna&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-white?style=flat&logo=optuna&logoColor=000000)
 
 #### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
